@@ -10,7 +10,12 @@
             "homepage": "https://softlivre.com.br",
             "role": "Developer"
         }
-    ],    
+    ],
+    "autoload": {
+        "psr-4": {
+            "Softlivre\\DatabaseManager\\": "src/"
+        }
+    },
     "require": {
         "php": ">=7.0"
     }
