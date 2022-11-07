@@ -1,0 +1,17 @@
+{
+    "name": "softlivre/DatabaseManager",
+    "description": "class for postgresql operations and pagination of results in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henrique Soares Barbosa",
+            "email": "softlivre1@gmail.com",
+            "homepage": "https://softlivre.com.br",
+            "role": "Developer"
+        }
+    ],    
+    "require": {
+        "php": ">=7.0"
+    }
+}
