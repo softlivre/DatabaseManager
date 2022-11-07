@@ -1,5 +1,5 @@
 {
-    "name": "softlivre/DatabaseManager",
+    "name": "softlivre/pgsql-database-manager",
     "description": "class for postgresql operations and pagination of results in PHP",
     "type": "library",
     "license": "MIT",
